@@ -93,6 +93,3 @@ export function authz(opt: AuthzOptions) {
     next();
   };
 }
-
-// ncloc validation marker
-export const NCLOC_VALIDATION_MARKER = true;
